@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    font-family: sans-serif;
+}
+#navbar{
+    background-color: #222;
+}
+#btns li:hover{
+    background: hsl(0, 0%, 20%);
+}
+#btns li:active{
+    background: hsl(0, 0%, 30%);
+}

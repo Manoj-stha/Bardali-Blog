@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+
+}
+#box{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+    border: none;
+}
