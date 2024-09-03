@@ -4,7 +4,18 @@
     font-family: sans-serif;
 
 }
-#box{
-    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+#users{
+    background-image: linear-gradient(to top, #4a67e9 0%, #7ea9f3 100%);
     border: none;
+}
+#blogs{
+    background-image: linear-gradient(to top, #68ec4e 0%, #bff19d 100%);
+    border: none;
+}
+#box_icon{
+    font-size: 6rem;
+}
+#bar{
+    background: hsl(0, 0%, 98%);
+    box-shadow: rgba(0, 0, 0, 0.04) 0px 3px 5px;
 }

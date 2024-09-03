@@ -5,11 +5,18 @@
     font-family: sans-serif;
 }
 #navbar{
-    background-color: #222;
+    background-color: hsl(0, 0%, 96%);
+    border-radius: 10px;
 }
 #btns li:hover{
-    background: hsl(0, 0%, 20%);
+    background: hsl(0, 4%, 90%);
 }
 #btns li:active{
-    background: hsl(0, 0%, 30%);
+    background: hsl(0, 0%, 85%);
+}
+#btn:hover{
+    background: hsl(0, 4%, 90%);;
+}
+#btn:active{
+    background: hsl(0, 0%, 85%);;
 }
